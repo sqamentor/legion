@@ -1,0 +1,15 @@
+# Framework
+pytest
+selenium
+pycmd
+
+# Reporting
+allure-pytest
+
+# Data Driven
+pyexcel
+pyexcel-xls
+pyexcel-xlsx
+
+# Driver Manager
+webdriver_manager
